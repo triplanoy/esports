@@ -1,0 +1,11 @@
+# dependencies
+/node_modules
+
+# build output
+/dist
+/posts/.vitepress/dist
+/posts/.vitepress/cache
+
+# IDE configuration files
+/.vscode
+/.idea
