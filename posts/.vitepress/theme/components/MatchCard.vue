@@ -25,7 +25,7 @@ const scoreColor = (score1, score2) => {
 <template>
   <a
     :href="`/match-reports/${slug}`"
-    class="bg-vp-gray shadow-lg rounded-lg p-4 max-w-md min-w-[17rem] h-[8.5rem] mx-auto flex flex-col justify-between items-center transition-colors duration-200 no-underline text-current"
+    class="bg-vp-gray shadow-lg rounded-lg p-4 max-w-md min-w-[15rem] h-[8.5rem] mx-auto flex flex-col justify-between items-center transition-colors duration-200 no-underline text-current"
   >
     <div class="grid grid-cols-4 w-full">
       <div class="text-sm font-semibold col-span-3">
