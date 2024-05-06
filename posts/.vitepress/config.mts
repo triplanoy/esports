@@ -6,7 +6,6 @@ export default defineConfig({
   title: 'Triplan eSports',
   description: 'Kaikki ei halua pelata vain sählyä ja padelia',
   lang: 'fi-FI',
-  base: '/esports/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
