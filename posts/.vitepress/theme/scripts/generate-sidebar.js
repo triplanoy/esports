@@ -37,7 +37,6 @@ function getSidebarItems(dir, base = '') {
       const name = formatName(file);
       return {
         text: name,
-        // link: `/${relativePath}`,
         collapsed: false,
         items: getSidebarItems(absolutePath, relativePath),
       };
@@ -72,6 +71,10 @@ function getSidebarItems(dir, base = '') {
 
 const matchReports = getSidebarItems('posts/match-reports', 'match-reports');
 const seasonRecaps = getSidebarItems('posts/season-recaps', 'season-recaps');
+const seasonPrevies = getSidebarItems(
+  'posts/season-previews',
+  'season-previews'
+);
 
 const sidebar = [
   { text: 'Otteluraportit', collapsed: false, items: matchReports },
@@ -80,6 +83,12 @@ const sidebar = [
     collapsed: false,
     items: seasonRecaps,
     link: '/season-recaps/',
+  },
+  {
+    text: 'Kausiennakot',
+    collapsed: false,
+    items: seasonPrevies,
+    link: '/season-previews/',
   },
 ];
 

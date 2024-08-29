@@ -25,5 +25,16 @@
       }
     ],
     "link": "/season-recaps/"
+  },
+  {
+    "text": "Kausiennakot",
+    "collapsed": false,
+    "items": [
+      {
+        "text": "Kanaliiga CS2 Season 2",
+        "link": "/season-previews/kanaliiga-cs2-season-2"
+      }
+    ],
+    "link": "/season-previews/"
   }
 ]

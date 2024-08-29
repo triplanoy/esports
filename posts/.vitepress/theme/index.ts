@@ -6,7 +6,7 @@ import './style.css';
 import './css/./custom.css';
 import MatchCard from './components/MatchCard.vue';
 import Matches from './components/Matches.vue';
-import SeasonRecapCard from './components/SeasonRecapCard.vue';
+import SeasonCard from './components/SeasonCard.vue';
 import MatchReportCard from './components/MatchReportCard.vue';
 import MatchReports from './components/MatchReports.vue';
 
@@ -21,7 +21,7 @@ export default {
     // ...
     app.component('MatchCard', MatchCard);
     app.component('Matches', Matches);
-    app.component('SeasonRecapCard', SeasonRecapCard);
+    app.component('SeasonCard', SeasonCard);
     app.component('MatchReportCard', MatchReportCard);
     app.component('MatchReports', MatchReports);
   },
