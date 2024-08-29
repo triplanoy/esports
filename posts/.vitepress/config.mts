@@ -12,6 +12,7 @@ export default defineConfig({
       { text: 'Etusivu', link: '/' },
       { text: 'Otteluraportit', link: '/match-reports/' },
       { text: 'Kausiyhteenvedot', link: '/season-recaps/' },
+      { text: 'Kausiennakot', link: '/season-previews/' },
       { text: 'Joukkue', link: '/team' },
     ],
     sidebar: sidebar,
