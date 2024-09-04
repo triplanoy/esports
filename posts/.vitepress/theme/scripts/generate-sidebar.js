@@ -28,7 +28,7 @@ function formatMatchReportName(name) {
 
 function getSidebarItems(dir, base = '') {
   let items = fs.readdirSync(dir).flatMap((file) => {
-    if (file === 'index.md') {
+    if (file === 'index.md' || file === '.DS_Store') {
       return [];
     }
     const absolutePath = path.resolve(dir, file);
@@ -54,8 +54,8 @@ function getSidebarItems(dir, base = '') {
 
   if (base.startsWith('match-reports')) {
     items = items.sort((a, b) => {
-      const dateA = a.link.slice(-8);
-      const dateB = b.link.slice(-8);
+      const dateA = a.link ? a.link.slice(-8) : '';
+      const dateB = b.link ? b.link.slice(-8) : '';
       if (dateA < dateB) {
         return 1;
       } else if (dateA > dateB) {
@@ -71,7 +71,7 @@ function getSidebarItems(dir, base = '') {
 
 const matchReports = getSidebarItems('posts/match-reports', 'match-reports');
 const seasonRecaps = getSidebarItems('posts/season-recaps', 'season-recaps');
-const seasonPrevies = getSidebarItems(
+const seasonPreviews = getSidebarItems(
   'posts/season-previews',
   'season-previews'
 );
@@ -87,7 +87,7 @@ const sidebar = [
   {
     text: 'Kausiennakot',
     collapsed: false,
-    items: seasonPrevies,
+    items: seasonPreviews,
     link: '/season-previews/',
   },
 ];

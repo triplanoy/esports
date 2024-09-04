@@ -13,7 +13,7 @@ Triplan eSports löytää itsensä tällä kaudella 5. divarista. Vanhoja tuttuj
 
 Yleensä alimmasta mahdollisesta sarjasta itsensä löytävä joukkue on joko nostanut tasoaan tai sitten Kanaliigan yleinen taso on laskenut, sillä tällä kertaa divareita on 6, joten ollaan tultu pykälä ylöspäin! Joukkueen bootcampeillä yläkerran saunaosastolla on **selvästi** ollut positiivinen vaikutus!
 
-Runkosarjaa koostuu 7 kierroksesta ja on kestoltaan 7 viikkoa. Luvassa on siis kutkuttavaa luettavaa otteluraporttien muodossa **joka** viikko!
+Runkosarja koostuu 7 kierroksesta ja on kestoltaan 7 viikkoa. Luvassa on siis kutkuttavaa luettavaa otteluraporttien muodossa **joka** viikko!
 
 ![Lohkon taulukko](../images/kanaliiga-cs2-season-2/group-preview.png)
 
