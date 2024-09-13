@@ -1,5 +1,26 @@
 [
   {
+    "content": "\n# {{ $frontmatter.title }}\n\n<p class=\"text-md my-0 font-semibold\"> {{ $frontmatter.league}}</p>\n<p class=\"text-md mt-0 font-semibold\"> {{ $frontmatter.datetime }}</p>\n\n## Map 1: Ancient<span class=\"text-red-500\"> 12 - 16</span>\n\nTriplanin karttavalinta oli Ancient, joka on joukkueen vahvimpia karttoja. Tällä kertaa hyökättiin suoraviivaisemmin, eikä pyritty saamaan midiä haltuun. Gofore puolusti mallikkaasti ensimmäisen puoliskon 8-4 nimiinsä.\n\nTriplanin puolustuspeli oli kuitenkin yhtä vahvaa kuin Goforen, joka hyökätessään pyrki hallitsemaan midiä ja jonka hyökkäykset päätyivät useimmiten B:lle. Toinen puolisko Triplanin nimiin 8-4 ja kohti jatkoaikaa!\n\nJatkoajalla tukka pöllysi ja Gofore otti sen suvereenisti nimiinsä voittaen jokaisen kierroksen. Goforen _Niiitty_ oli pelipäällä, keräten vakuuttavat 39 tappoa ja rekisteröimään kolme 4K:ta (quadra kill), sekä kolme 3K:ta (triple kill) ottelussa. Ancient Goforen nimiin ja kohti seuraavaa karttaa.\n\n![Map 1: Ancient scoreboard](../../images/kanaliiga-cs2-season-2/gofore-hms-ancient-scoreboard.png)\n\n## Map 2: Anubis<span class=\"text-green-500\"> 13 - 8</span>\n\nGoforen karttavalinta oli Anubis, jossa he olivat viime kierroksella onnistuneet voittamaan oman pelinsä. Triplanin kone yski vielä puolustaessa ja Gofore otti tiukan ensimmäisen puoliskon nimiinsä 7-5.\n\nPuolten vaihdon jälkeen alkoi Triplanilla juna kulkemaan ja vastaavasti Gofore pelasi todella aggressiivisesti haastaen, jonka Triplan hanskasi ottaen avaustapot nimiinsä.\n\nTriplanin duelaaminen oli vahvaa, vieden suurimman osan 1v1:stä. Gofore yllätettiin hyvin usein ns. \"housut kintuissa\", johtaen Triplanin kierrosvoittoon. Vakuuttava hyökkäyspuoli 8-1 Triplanille ja Anubis Triplanin nimiin, tasaten tämän ottelusarjan 1-1.\n\n![Map 2: Anubis scoreboard](../../images/kanaliiga-cs2-season-2/gofore-hms-anubis-scoreboard.png)\n",
+    "data": {
+      "title": "Triplan eSports vs Gofore HMS",
+      "lang": "fi-FI",
+      "league": "Kanaliiga CS2 Season 2 Div 5",
+      "score1": "1",
+      "score2": "1",
+      "team1": "Triplan eSports",
+      "team2": "Gofore HMS",
+      "datetime": "12.09.2024 20:00",
+      "maps": [
+        "de_ancient",
+        "de_anubis"
+      ],
+      "slug": "kanaliiga-cs2-season-2/Gofore-HMS_20240912",
+      "parsedDate": "2024-09-12T17:00:00.000Z"
+    },
+    "isEmpty": false,
+    "excerpt": ""
+  },
+  {
     "content": "\n# {{ $frontmatter.title }}\n\n<p class=\"text-md my-0 font-semibold\"> {{ $frontmatter.league}}</p>\n<p class=\"text-md mt-0 font-semibold\"> {{ $frontmatter.datetime }}</p>\n\nKanaliigan kausi käynnistyi ja Triplanilaiset saivat tulikasteensa Are Cloudia vastaan.\n\n## Map 1: Ancient<span class=\"text-green-500\"> 13 - 4</span>\n\nTriplanille kelpasi Are Cloudin valitsema Ancient vallan mainiosti, sillä olihan se viime kauden loppupuolella yksi Triplanin vahvimmista mapeista! Triplan hävisi molemmat pistoolikierrokset, mutta eritoten CT-puolella hävitty pistoolikierros ansaitsi Are Cloudille yhteensä 3 kierrosta. Hävittyjä pistoolikierroksia ja niistä johtuneita säästökierroksia lukuunottamatta, ei Are Cloudilla ollut saumaa laisinkaan.\n\nMidi oli tiukassa pidossa _neivin_ ja _Mehiksen_ toimesta puolustaessa. Ei Are Cloudilla ollut Triplanin hyökätessäkään asiaa midiin, sillä Triplanin midiä painoittava hyökkääminen ja eritoten _neivin_ W-näppäin olivat niin timanttisessa iskussa, että taululle kylmät 13 - 4 lukemat ja kohti seuraavaa mappia, Nukea.\n\n![Map 1: Ancient scoreboard](../../images/kanaliiga-cs2-season-2/are-cloud-ancient-scoreboard.png)\n\n## Map 2: Nuke<span class=\"text-green-500\"> 13 - 8</span>\n\nNuke alkoi Triplanilla hyökätessä ja varsin hitaasti hyökkäävä Triplan onnistui klaaraamaan tämän puolen 9 - 3 nimiinsä ja peli vaikutti jo olevan aika varmasti \"in the bag\". Triplanin pistoolikierroksen ehdoton MVP oli _mAhlA_, joka nöyrästi ensin tarjosi maitoa vastustajalle, ansaiten 2 flash assistia ja tämän jälkeen clutchaten 1v3 tilanteen antaen hyökkäyspuolelle räjähtävän startin!\n\nPuolustus ei sitten sujunutkaan ihan niin hyvin. Varmasti osasyynä oli keskittymisen herpaantuminen ja malttamattomuus, kun peli oli tähän asti ollut niin yksisuuntainen. Myös piha tuntui tuottavan merkittäviä ongelmia ja _SANTTU8D_ löysi itsensä hyvin usein vastaanottavana osapuolena, avaten pihan täysin Are Cloudin käyttöön. Tarvittavat 4 kierrosta saatiin kuitenkin kasaan lopulta ja Triplan vei tämänkin kartan nimiinsä 13 - 8.\n\n![Map 2: Nuke scoreboard](../../images/kanaliiga-cs2-season-2/are-cloud-nuke-scoreboard.png)\n",
     "data": {
       "title": "Triplan eSports vs Are Cloud",
