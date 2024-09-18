@@ -37,7 +37,7 @@ function getSidebarItems(dir, base = '') {
       const name = formatName(file);
       return {
         text: name,
-        collapsed: false,
+        collapsed: name !== 'Kanaliiga CS2 Season 2',
         items: getSidebarItems(absolutePath, relativePath),
       };
     } else {

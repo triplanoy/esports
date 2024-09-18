@@ -5,7 +5,7 @@
     "items": [
       {
         "text": "Kanaliiga CS2 Season 1",
-        "collapsed": false,
+        "collapsed": true,
         "items": [
           {
             "text": "ALM Partners Luottotappio 23.04.2024",
@@ -17,6 +17,10 @@
         "text": "Kanaliiga CS2 Season 2",
         "collapsed": false,
         "items": [
+          {
+            "text": "Taksi Tampere 18.09.2024",
+            "link": "/match-reports/kanaliiga-cs2-season-2/Taksi-Tampere_20240918"
+          },
           {
             "text": "Gofore HMS 12.09.2024",
             "link": "/match-reports/kanaliiga-cs2-season-2/Gofore-HMS_20240912"

@@ -1,5 +1,26 @@
 [
   {
+    "content": "\n# {{ $frontmatter.title }}\n\n<p class=\"text-md my-0 font-semibold\"> {{ $frontmatter.league}}</p>\n<p class=\"text-md mt-0 font-semibold\"> {{ $frontmatter.datetime }}</p>\n\n## Map 1: Dust 2<span class=\"text-green-500\"> 13 - 6</span>\n\nTriplanin karttavalinta oli tähän otteluun Dust 2 ja Taksi Tampere päätti aloittaa puolustuspuolelta. Alku oli lupaava Triplanilta, mutta kun vastustaja sai rahapuolen kuntoon ja päästiin asekierroksille, niin puolustuspelaaminen alkoi luistamaan taksikuskeilla. Vahvan alun ansiosta Triplan onnistui kuitenkin viemään ensimmäisen kartan puoliskon 7-5.\n\nHyökätessä taksikuskeilla oli selvästi raskas kaasujalka ja B:lle tultiin kovalla ryminällä pakokaasun saattelemana. Tästä Taksi Tampere kuittasi itselleen pistoolikierroksen ja samaa temppua yritettiin uudestaan. Tällä kertaa kuitenkin Triplan onnistui retakemaan B:n, sillä muun joukkueen puskiessa tunnelista pommipaikalle, onnistui _**SANTTU8D**_ luikertelmaan savujen läpi saaden varsin herkullisen kulman vastustajiin, jotka olivat täysin keskittyneitä tunneliin. Eli toinen kierros Triplanin nimiin, vaikka kyseessä oli täysi säästökierros Triplanilta.\n\nTämä selvästi katkaisi jonkinlaisen selkärangan taksikuskeilta, sillä he eivät onnistuneet enää saamaan kierroksen kierrosta nimiinsä hyökkäspuolella, vaan Triplanin puolustus piti ja Dust 2 Triplanin nimiiin 13-6!\n\n![Map 1: Dust2 scoreboard](../../images/kanaliiga-cs2-season-2/taksi-tampere-dust2-scoreboard.png)\n\n## Map 2: Anubis<span class=\"text-green-500\"> 13 - 6</span>\n\nTaksi Tampere valitsi kartakseen Anubiksen ja Triplan lähti ensimmäiseen puoliskoon hyökkäyspuolelta. Pistoolikierroksen taktiikkana oli B:lle ryminällä ja vaikka savut ja valot menivät mihin sattuivat, onnistui Triplan ottamaan tämän pistoolikierroksen nimiinsä.\n\nHyökkäys näytti soljuvan Triplanilla hyvin. Varsinkin midin haltuunotto, sekä B:lle meneminen tuotti tulosta. Taksin _**FyrNi**_ laittoi Triplanille erityisesti kampoihin, joista kunniamainintana 4 Triplanilaisen siivoaminen A:lle, kun Triplan yritti vähän sekoittaa pakkaa ja iskeä välillä A:lle. Ei olisi kannattanut! Ensimmäinen puolisko aika yksipuolisen esityksen jälkeen 9-3 Triplanin nimiin.\n\nToisen puoliskon pistoolikierroksella oli Triplan varautunut kaksilla tupla beretoilla ja \"länkkärit\" hiljensivät Taksin hyökkäysyrityksen A:lle, tuoden pistoolikierroksen voiton Triplanin nimiin. Kauaa ei Triplan joutunut puolustuksessa hikoilla, vaan tarvittavat kierrokset saatiin kasaan 7 kierroksen aikana ja Anubiskin Triplanin nimiin 13-6. Näin ollen Triplan voitti sarjan 2-0!\n\n![Map 2: Anubis scoreboard](../../images/kanaliiga-cs2-season-2/taksi-tampere-anubis-scoreboard.png)\n",
+    "data": {
+      "title": "Triplan eSports vs Taksi Tampere",
+      "lang": "fi-FI",
+      "league": "Kanaliiga CS2 Season 2 Div 5",
+      "score1": "2",
+      "score2": "0",
+      "team1": "Triplan eSports",
+      "team2": "Taksi Tampere",
+      "datetime": "18.09.2024 20:00",
+      "maps": [
+        "de_dust2",
+        "de_anubis"
+      ],
+      "slug": "kanaliiga-cs2-season-2/Taksi-Tampere_20240918",
+      "parsedDate": "2024-09-18T17:00:00.000Z"
+    },
+    "isEmpty": false,
+    "excerpt": ""
+  },
+  {
     "content": "\n# {{ $frontmatter.title }}\n\n<p class=\"text-md my-0 font-semibold\"> {{ $frontmatter.league}}</p>\n<p class=\"text-md mt-0 font-semibold\"> {{ $frontmatter.datetime }}</p>\n\n## Map 1: Ancient<span class=\"text-red-500\"> 12 - 16</span>\n\nTriplanin karttavalinta oli Ancient, joka on joukkueen vahvimpia karttoja. Tällä kertaa hyökättiin suoraviivaisemmin, eikä pyritty saamaan midiä haltuun. Gofore puolusti mallikkaasti ensimmäisen puoliskon 8-4 nimiinsä.\n\nTriplanin puolustuspeli oli kuitenkin yhtä vahvaa kuin Goforen, joka hyökätessään pyrki hallitsemaan midiä ja jonka hyökkäykset päätyivät useimmiten B:lle. Toinen puolisko Triplanin nimiin 8-4 ja kohti jatkoaikaa!\n\nJatkoajalla tukka pöllysi ja Gofore otti sen suvereenisti nimiinsä voittaen jokaisen kierroksen. Goforen _Niiitty_ oli pelipäällä, keräten vakuuttavat 39 tappoa ja rekisteröimään kolme 4K:ta (quadra kill), sekä kolme 3K:ta (triple kill) ottelussa. Ancient Goforen nimiin ja kohti seuraavaa karttaa.\n\n![Map 1: Ancient scoreboard](../../images/kanaliiga-cs2-season-2/gofore-hms-ancient-scoreboard.png)\n\n## Map 2: Anubis<span class=\"text-green-500\"> 13 - 8</span>\n\nGoforen karttavalinta oli Anubis, jossa he olivat viime kierroksella onnistuneet voittamaan oman pelinsä. Triplanin kone yski vielä puolustaessa ja Gofore otti tiukan ensimmäisen puoliskon nimiinsä 7-5.\n\nPuolten vaihdon jälkeen alkoi Triplanilla juna kulkemaan ja vastaavasti Gofore pelasi todella aggressiivisesti haastaen, jonka Triplan hanskasi ottaen avaustapot nimiinsä.\n\nTriplanin duelaaminen oli vahvaa, vieden suurimman osan 1v1:stä. Gofore yllätettiin hyvin usein ns. \"housut kintuissa\", johtaen Triplanin kierrosvoittoon. Vakuuttava hyökkäyspuoli 8-1 Triplanille ja Anubis Triplanin nimiin, tasaten tämän ottelusarjan 1-1.\n\n![Map 2: Anubis scoreboard](../../images/kanaliiga-cs2-season-2/gofore-hms-anubis-scoreboard.png)\n",
     "data": {
       "title": "Triplan eSports vs Gofore HMS",
