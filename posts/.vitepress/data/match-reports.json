@@ -1,5 +1,26 @@
 [
   {
+    "content": "\n# {{ $frontmatter.title }}\n\n<p class=\"text-md my-0 font-semibold\"> {{ $frontmatter.league}}</p>\n<p class=\"text-md mt-0 font-semibold\"> {{ $frontmatter.datetime }}</p>\n\n## Map 1: Ancient<span class=\"text-green-500\"> 1 - 13</span>\n\nAncient valikoitui Triplanin karttavalinnaksi. Tällä kaudella vahva suorittaminen Ancientissa jatkui ja Supermetrics ei ensimmäistä pistoolikierrosta enempää onnistunut kierroksia haalimaan.\n\nMidin haltuunotto oli myrkkyä Supermetricsille ja he joutuivat joka kierros sen luovuttamaan Triplanille, joka hyödynsi tämän annetun tilan ottaen kierrosvoiton kierrosvoiton perään. Supermetricsin _**tar_gz**_ kone vähän yski, eikä hän onnistunut saamaan yhtäkään Triplanilaista kumoon koko kartan aikana. Suvereenia dominointia Triplanin puolelta ja 1 - 13 kartta omiin nimiinsä.\n\n![Map 1: Ancient scoreboard](../../images/kanaliiga-cs2-season-2/supermetrics-ancient-scoreboard.png)\n\n## Map 2: Anubis<span class=\"text-green-500\"> 8 - 13</span>\n\nSupermetrics päätti kartakseen Anubiksen.\n\n![Map 2: Anubis scoreboard](../../images/kanaliiga-cs2-season-2/supermetrics-anubis-scoreboard.png)\n",
+    "data": {
+      "title": "Supermertrics vs Triplan eSports",
+      "lang": "fi-FI",
+      "league": "Kanaliiga CS2 Season 2 Div 5",
+      "score1": "0",
+      "score2": "2",
+      "team1": "Supermetrics",
+      "team2": "Triplan eSports",
+      "datetime": "30.09.2024 20:00",
+      "maps": [
+        "de_ancient",
+        "de_anubis"
+      ],
+      "slug": "kanaliiga-cs2-season-2/Supermetrics_20240930",
+      "parsedDate": "2024-09-30T17:00:00.000Z"
+    },
+    "isEmpty": false,
+    "excerpt": ""
+  },
+  {
     "content": "\n# {{ $frontmatter.title }}\n\n<p class=\"text-md my-0 font-semibold\"> {{ $frontmatter.league}}</p>\n<p class=\"text-md mt-0 font-semibold\"> {{ $frontmatter.datetime }}</p>\n\n## Map 1: Nuke<span class=\"text-green-500\"> 13 - 8</span>\n\nCustobarbarians valitsi kartakseen Nuken, joten Triplan pääsi aloittamaan puolustamalla, joka yleisesti ottaen on Nukessa se paremmin menestyvä puoli.\n\nCustobarbarians löysi reiän Triplanin puolustusasetelmasta ja pääsikin hyvin usein rampista läpi, missä joukkueen kapteeni _**mAhla**_, oli estämässä barbaarien ryntäystä. Tällä(kin?) kertaa erittäin huonolla internet yhteydellä varustettu Triplanin kapteeni joutui kuitenkin nöyrtymään barbaarien edessä, tehden puolustamisesta pykälän haastavampaa.\nTästä huolimatta, Triplan onnistui kuitenkin keräämään ensimmäisestä puoliskosta 7 kierrosta, joten puolia vaihdettiin tilanteessa 7-5.\n\nHyökkääminen kulki mallikkaasti Triplanilla ja vaikka kone loppua kohden vähän hyytyikin, niin lopulta kartta Triplanin nimiin 13-8!\n_**Mehis**_ oli Triplan eSportsin puolelta **kohtuu hyvällä** pelipäällä, kaataen 29 barbaaria ja omaten 2.48 K/D-ration.\n\n_Mehiksen_ mukaan 10 minuuttia aim traineria ennen peliä tekee ihmeitä ja kyllähän nuo statsit puhuvat sen puolesta! Siitä vinkkiä korvan taakse muillekin.\n\n![Map 1: Nuke scoreboard](../../images/kanaliiga-cs2-season-2/custobarbarians-nuke-scoreboard.png)\n\n## Map 2: Anubis<span class=\"text-green-500\"> 13 - 9</span>\n\nTriplan valitsi kartakseen Anubiksen, joka on ollut varsin suotuisa kartta joukkueelle. Erityisesti hyökkäyspuoli on jotenkin omalla painollaan lähes automaattisesti \"vain toiminut\".\n\nBarbaarit halusivat aloittaa puolustuksesta, joten Triplanin hyökkäyspuoli saa heti kartan alkuun mahdollisuuden näyttää kyntensä. Custobarbarians hyödynsi midiä puolustaessa ja jos Triplanilta ei sinne savua löytynyt, niin he kyllä tulivat tutkimaan, että mitä siellä juonitaan.\n\nTriplanin hyökkäys suosi B:tä ja barbaarien toinen B-puolen pelaajista tarjosi lyijyä ahkerasti, tehden hyökkäämisestä vaikeaa. Ensimmäinen puolisko 7-5 Custobarbariansin nimiin ja puolten vaihto.\n\nCustobarbariansin hyökkäyksestä ei paljoa jäänyt kotiin kerrottavaa, sillä he ennättivät keräämään vain 2 kierrosta, kun Triplan oli jo saanut tarvittavat kierrokset karttavoittoon 13-9!\nJo ensimmäisessäkin kartassa, Nukessa, kovaa suorittanut _**multimarko (lonkneck)**_ vastasi tällä kertaa scoreboardin kärkipaikasta kaataen 26 barbaaria ja omaten 2.17 K/D-ration.\n\n![Map 2: Anubis scoreboard](../../images/kanaliiga-cs2-season-2/custobarbarians-anubis-scoreboard.png)\n",
     "data": {
       "title": "Triplan eSports vs Custobarbarians",
