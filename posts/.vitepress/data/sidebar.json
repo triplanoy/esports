@@ -18,6 +18,10 @@
         "collapsed": false,
         "items": [
           {
+            "text": "Taksi Tampere 04.12.2024",
+            "link": "/match-reports/kanaliiga-cs2-season-2/Taksi-Tampere_20241204"
+          },
+          {
             "text": "Taksi Tampere 13.11.2024",
             "link": "/match-reports/kanaliiga-cs2-season-2/Taksi-Tampere_20241113"
           },
@@ -68,6 +72,10 @@
       {
         "text": "Kanaliiga CS2 Season 1",
         "link": "/season-recaps/kanaliiga-cs2-season-1"
+      },
+      {
+        "text": "Kanaliiga CS2 Season 2",
+        "link": "/season-recaps/kanaliiga-cs2-season-2"
       }
     ],
     "link": "/season-recaps/"
