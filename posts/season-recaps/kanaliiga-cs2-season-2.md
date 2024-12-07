@@ -127,4 +127,6 @@ Triplan eSportsin kausi Kanaliigan CS2 Season 2 Div 5 -sarjassa oli menestyksek�
 
 Alla vielä joukkueen kapteenin, **mAhlan** tekemä kooste Triplan eSportsin voitokkaasta kaudesta:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UHHfO0uIhiE?si=LWK4S0HBZUAQi3cP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="relative pb-[56.25%] h-0 overflow-hidden max-w-full bg-black">
+  <iframe class="absolute top-0 left-0 w-full h-full border-0" src="https://www.youtube.com/embed/UHHfO0uIhiE?si=LWK4S0HBZUAQi3cP" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
