@@ -7,7 +7,7 @@ lang: fi-FI
 
 ## Sarja ja lohkojako
 
-Kanaliigan CS2 kolmas kausi on täällä! Uuteen kauteen on Kanaliiga laittanut sarjatasot uusiksi ja tällä kertaa on 11 eri sarjatasoa ja jokaisella sarjatasolla on 2 lohkoa. Karttapoolia on muutettu ja Vertigo väistyy uudistetun Trainin tieltä.
+Kanaliigan CS2 kolmas kausi on täällä! Uuteen kauteen on Kanaliiga laittanut sarjatasot uusiksi ja tällä kertaa on 11 eri sarjatasoa ja jokaisella sarjatasolla on 2 lohkoa, paitsi 10 ja 11 divareilla. Karttapoolia on muutettu ja Vertigo väistyy uudistetun Trainin tieltä.
 
 Tällä kaudella Triplan eSports pelaa 9. divarin lohkossa A. Viime vuonna joukkue voitti vitosdivarin, joka silloin oli toiseksi alin sarjataso, joten päätyminen pykälää ylemmäs, kolmanneksi alimpaan sarjatasoon, oli odotettavissa. Viime kausi oli suvereenia dominointia, joten toivottavasti pykäläää korkeampi sarjataso tuo mukanaan myös kovempia vastustajia.
 
@@ -41,7 +41,7 @@ Runkosarja koostuu 6 kierroksesta ja on kestoltaan 6 viikkoa. Luvassa on siis ta
 
 Joukkuetta tällä kaudella edustavat seuraavat pelurit:
 
-- Niko _"mAhlA"_ Turunen
+- Niko _"mAhla"_ Turunen
 - Juuso _"neivi"_ Laine
 - Niilo _"lonkneck"_ Keskinen
 - Miikka _"Mehis"_ Ylätalo
