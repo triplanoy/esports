@@ -15,7 +15,7 @@
       },
       {
         "text": "Kanaliiga CS2 Season 2",
-        "collapsed": false,
+        "collapsed": true,
         "items": [
           {
             "text": "Taksi Tampere 04.12.2024",
@@ -60,6 +60,16 @@
           {
             "text": "Are Cloud 04.09.2024",
             "link": "/match-reports/kanaliiga-cs2-season-2/Are-Cloud_20240904"
+          }
+        ]
+      },
+      {
+        "text": "Kanaliiga CS2 Season 3",
+        "collapsed": true,
+        "items": [
+          {
+            "text": "Funidata Eiku 05.02.2025",
+            "link": "/match-reports/kanaliiga-cs2-season-3/Funidata-Eiku_20250205"
           }
         ]
       }
